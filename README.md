@@ -149,4 +149,4 @@ Running DeepSeek R1 and Qwen2.5 full models on OCI’s A100 and H100 bare metal 
 Remember to monitor your resource usage and costs when running these powerful models on cloud infrastructure. OCI’s flexible pricing and high-performance GPU offerings make it an excellent choice for deploying and scaling your AI applications.
 
 Explore Oracle Cloud’s High Performance Computing offerings for cluster networking, RDMA, and job schedulers. Investigate serving solutions like NVIDIA Triton Inference Server or Launchpad for production deployments. Check the OCI Marketplace for ready-to-deploy AI frameworks or third-party tools to speed up development.
-![image](https://github.com/user-attachments/assets/7fe2af2f-3c90-4d34-b272-6a3809be8d40)
+
